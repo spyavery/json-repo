@@ -1,5 +1,5 @@
-
-[
+{
+  "country":[
     { "id": "1", "name": "Access Bank" ,"code":"044" },
     { "id": "2", "name": "Citibank","code":"023" },
     { "id": "3", "name": "Diamond Bank","code":"063" },
@@ -24,3 +24,4 @@
     { "id": "22", "name": "Wema Bank","code":"035" },
     { "id": "23", "name": "Zenith Bank","code":"057" }
 ]
+}
